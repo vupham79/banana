@@ -1,0 +1,14 @@
+{
+  "[data-ref=taskCountField] input": {
+    "title": "50 tasks",
+    "content": "Amount of tasks to generate, but you can enter another number here and press [ENTER] to generate more."
+  },
+  "[data-ref=projectSizeField] input": {
+    "title": "Every 10 have dependencies between them",
+    "content": "Number of tasks to connect with dependencies. Change value and press [ENTER] to modify."
+  },
+  "[data-ref=exportButton]": {
+    "title": "Click to export",
+    "content": "Opens a dialog to customize export"
+  }
+}

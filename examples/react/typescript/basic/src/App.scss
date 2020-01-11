@@ -1,0 +1,16 @@
+/**
+ * @author Saki
+ * @date 2019-07-29 21:02:06
+ * @Last Modified by: Saki
+ * @Last Modified time: 2019-07-29 21:25:29
+ */
+
+
+// remove left margin from fullscreen button to evenly space header controls
+.demo-header #tools button#fullscreen-button {
+    margin-left : 0;
+}
+.b-react-gantt-container {
+    flex : 1;
+}
+// eof
